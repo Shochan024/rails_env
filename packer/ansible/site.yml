@@ -1,0 +1,5 @@
+---
+- name: Setup health_care environment
+  hosts: all
+  roles:
+    - common

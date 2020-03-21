@@ -1,0 +1,7 @@
+---
+env_name: rails_env
+rbenv_user: rails
+rbenv_root: /opt/rbenv
+rbenv_ruby_version: 2.5.0
+rbenv_gems:
+  - bundler

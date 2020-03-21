@@ -1,0 +1,4 @@
+repo/*
+.docker-sync/*
+packer/ansible/roles/common/files/id_rsa
+packer/ansible/roles/common/files/id_rsa.pub
